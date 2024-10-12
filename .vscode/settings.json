@@ -1,0 +1,6 @@
+{
+    "sonarlint.connectedMode.project": {
+        "connectionId": "guilhermestracini",
+        "projectKey": "GuilhermeStracini_hello-world-cosmosdb-dotnet"
+    }
+}
