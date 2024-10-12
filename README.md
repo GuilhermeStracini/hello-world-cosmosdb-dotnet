@@ -1,4 +1,4 @@
-# Hello World CosmosDB with C# .NET
+# Hello World CosmosDB C# .NET
 
 📚 A repository to learn [CosmosDB](https://azure.microsoft.com/en-us/products/cosmos-db) with C# .NET
 
